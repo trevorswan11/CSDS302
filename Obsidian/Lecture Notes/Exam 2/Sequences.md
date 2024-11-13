@@ -1,0 +1,2 @@
+- Capital Pi for $\Pi$ multiplication
+- Capital Sigma $\Sigma$ for Summation
